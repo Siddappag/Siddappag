@@ -2,7 +2,7 @@
 
 <p align="center">
 🚀 I'm currently learning  and Working on <strong>Machine Learning</strong> and <strong>Web Development</strong><br>
-🌱 I’m actively exploring DSA, Web Development
+🌱 I’m actively exploring DSA, Web Development<br>
 👨‍💻 I love building real-world projects<br>
 📫 Reach me at: siddappahirekurubar7@gmail.com
 </p>
