@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Siddappa L H</h1>
+<h1 align="center">Hi, I'm Siddappa L H</h1>
 
 <p align="center">
 🚀 I'm currently learning  and Working on<strong>Machine Learning</strong> and <strong>Web Development</strong><br>
