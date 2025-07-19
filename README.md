@@ -34,4 +34,15 @@
 
 ---
 
-_💡 I'm always open to learning and collaborating on exciting tech!_
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Siddappag&theme=tokyonight&margin-w=15&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+
+---
+
+
