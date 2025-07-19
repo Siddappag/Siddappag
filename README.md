@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Siddappa L H</h1>
 
 <p align="center">
-🚀Passionate about building real-world solutions using <strong>Machine Learning</strong> and <strong>Web Development</strong><br>
+🚀I’m currently learning and working on projects in <strong>Machine Learning</strong> and <strong>Web Development</strong><br>
 🌱 I’m actively exploring DSA, Machine Learning, Web Development<br>
 👨‍💻 I love building real-world projects<br>
 📫 Reach me at: siddappahirekurubar7@gmail.com
