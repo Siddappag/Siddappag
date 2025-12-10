@@ -39,9 +39,11 @@
 
 ## 📈 GitHub Stats
 
-[![Siddappag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Siddappag&show_icons=true&theme=radical)](https://github.com/Siddappag)
+<div style="display: flex; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Siddappag&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddappag&layout=compact&theme=radical" alt="Top Langs" />
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddappag&layout=compact&theme=radical)](https://github.com/Siddappag)
 
 
 
