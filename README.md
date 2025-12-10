@@ -37,10 +37,12 @@
 
 ---
 
-## 📈 GitHub Stats:
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SiddappaG&show_icons=true&theme=radical)
+## 📈 GitHub Stats
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SiddappaG&layout=compact&theme=radical)
+[![Siddappag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Siddappag&show_icons=true&theme=radical)](https://github.com/Siddappag)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddappag&layout=compact&theme=radical)](https://github.com/Siddappag)
+
 
 
 ---
